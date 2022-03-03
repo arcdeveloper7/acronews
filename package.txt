@@ -1,1 +1,2 @@
-1. Coption (check any error) (only for ARCO term)
+1. Coption (check any error)
+2. Login (keep your terminal safe)
